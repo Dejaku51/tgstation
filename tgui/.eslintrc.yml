@@ -348,7 +348,7 @@ rules:
   ## Enforce the location of arrow function bodies
   # implicit-arrow-linebreak: error
   ## Enforce consistent indentation
-  indent: [error, 2, { SwitchCase: 1 }]
+  # indent: [error, 2, { SwitchCase: 1 }]
   ## Enforce the consistent use of either double or single quotes in JSX
   ## attributes
   jsx-quotes: [error, prefer-double]
